@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: This plugin give you possibility to sell your "
+"content.\n"
+"Report-Msgid-Bugs-To: http://.com\n"
+"POT-Creation-Date: 2016-11-18 14:52+0200\n"
+"PO-Revision-Date: 2016-01-31 13:00+1000\n"
+"Last-Translator: Viktor Demianenko <@>\n"
+"Language-Team: Viktor Demianenko <@>\n"
+"Language: en_UK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: paidcontent.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class.paidcontent-admin.php:35
+msgid "Admin Settings"
+msgstr ""
+
+#: includes/class.paidcontent-admin.php:50
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:26
+msgctxt "Post Type Singular Name"
+msgid "Paid Content"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:27
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:41
+msgid "Paid Content"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:28
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:29
+msgid "All Items"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:30
+msgid "View Item"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:31
+msgid "Add New Item"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:32
+msgid "Add New"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:33
+msgid "Edit Item"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:34
+msgid "Update Item"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:35
+msgid "Search Item"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:36
+msgid "Not found"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:37
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:42
+msgid "Post Type Description"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:68
+msgctxt "taxonomy general name"
+msgid "Paid packages"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:69
+msgctxt "taxonomy singular name"
+msgid "Paid package"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:70
+msgid "Search Paid package"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:71
+msgid "All Paid packages"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:72
+msgid "Parent Paid package"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:73
+msgid "Parent Paid package:"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:74
+msgid "Edit Paid package"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:75
+msgid "Update Paid package"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:76
+msgid "Add New Paid package"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:77
+msgid "New Paid packages Name"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:78
+msgid "Paid package"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:96
+msgctxt "taxonomy general name"
+msgid "Authors"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:97
+msgctxt "taxonomy singular name"
+msgid "Author"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:98
+msgid "Search Author"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:99
+msgid "Popular Authors"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:100
+msgid "All Authors"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:103
+msgid "Edit Author"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:104
+msgid "Update Author"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:105
+msgid "Add New Author"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:106
+msgid "New Author Name"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:107
+msgid "Separate authors with commas"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:108
+msgid "Add or remove authors"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:109
+msgid "Choose from the most used authors"
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:110
+msgid "No authors found."
+msgstr ""
+
+#: includes/class.paidcontent-custom-post-type-taxonomy.php:111
+msgid "Authors"
+msgstr ""
+
+#: templates/access-deny-page.php:23
+msgid "Oops! ... this is the paid content"
+msgstr ""
+
+#: templates/access-deny-page.php:26
+msgid "Back"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PaidContent"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://github.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"PaidContent allows you to sell of access to a particular page or post "
+"through WooCommerce plugin. You can sell content as one item and as items "
+"package. For selling of package you just need to insert a link to the "
+"package. In this case all contained items in a package  will be available "
+"for view."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Victor Demianenko"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://"
+msgstr ""
